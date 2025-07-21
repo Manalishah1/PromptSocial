@@ -1,6 +1,6 @@
 # PromptSocial
 
-PromptSocial is a full-stack social platform for sharing AI prompts. It uses MongoDB, Apollo GraphQL server, and React for frontend.
+PromptSocial is a full-stack social platform for sharing and discovering AI prompts. Users can create, share, like, and add results to prompts for various AI models (GPT-4, Claude, etc.). Built with Node.js, Express, MongoDB, Apollo GraphQL server, and React.
 
 ---
 
