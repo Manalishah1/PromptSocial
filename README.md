@@ -26,6 +26,11 @@ This project is primarily a **learning exercise** focused on GraphQL with Apollo
 - **Database:** MongoDB
 
 ---
+## Flowchart
+
+<img width="2725" height="3840" alt="image" src="https://github.com/user-attachments/assets/d124e99d-4f1c-43d4-9fb4-772596163028" />
+
+---
 
 ## Setup Instructions
 
