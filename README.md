@@ -82,7 +82,14 @@ npm start
 
 * Open the frontend URL (default: `http://localhost:3000`)
 * Register a new user or log in with an existing username
+
+  <img width="1033" height="484" alt="image" src="https://github.com/user-attachments/assets/002ead37-5417-4e9c-9691-465978bfb980" />
+
 * Explore, add prompts, like prompts, and interact with AI prompt results
+
+ <img width="1033" height="582" alt="image" src="https://github.com/user-attachments/assets/2e08e292-e17c-4b73-ac64-be71dd2db669" />
+
+ <img width="503" height="582" alt="image" src="https://github.com/user-attachments/assets/f55f3c78-20d6-4fee-a820-94a5f45d7a5b" />
 
 ---
 
