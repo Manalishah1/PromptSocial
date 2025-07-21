@@ -87,3 +87,12 @@ npm start
 * GraphQL errors require backend to be running and proper connection string in `.env`
 * CORS is enabled in backend for smooth frontend-backend communication
 
+---
+
+## Future Enhancements
+
+* Export prompts to various formats (JSON, CSV, TXT)
+* Analytics dashboard for prompt performance tracking
+* Category-based subscriptions and notifications
+* JWT authentication with OAuth/SAML integration
+
